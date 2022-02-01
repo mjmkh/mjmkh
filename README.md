@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjmkh
 - 👀 I’m interested in Python, AI, and ML.
 - 🌱 I’m currently learning Postgresql, OOP, and Machine Learning.
-- 💞️ I’m looking to collaborate on data.
+- 💞️ I’m looking to collaborate on python developing projects.
 - 📫 How to reach me mj.mkhani8@gmail.com
 
 <!---
