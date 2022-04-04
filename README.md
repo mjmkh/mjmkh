@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mjmkh
-- 👀 I’m interested in Python, AI, and ML.
-- 🌱 I’m currently learning Postgresql, OOP, and Machine Learning.
+- 👋 Hi, I’m mj
+- 👀 I’m interested in Python and ML.
+- 🌱 I’m currently learning Django, mysql, and Machine Learning.
 - 💞️ I’m looking to collaborate on python developing projects.
-- 📫 How to reach me mj.mkhani8@gmail.com
+- 📫 How to reach me mohamadkhani.mj@gmail.com
 
 <!---
 mjmkh/mjmkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
